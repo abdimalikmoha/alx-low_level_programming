@@ -18,3 +18,7 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> f834bd27fdb366af7a8d1851cccd40857a4137f2
